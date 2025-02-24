@@ -1,2 +1,3 @@
 # Computational-Image-Processing
 Multi-Scale Resolution Reduction, Geometric Transformations, Region-Based Segmentation, Contrast Enhancement, and Edge Detection Algorithms in MATLAB
+This project explores various computational image processing techniques using Python and MATLAB. It includes multi-scale resolution reduction, geometric transformations, region-based segmentation, contrast enhancement, and edge detection algorithms. Implementations cover pixel connectivity analysis, contrast stretching, and derivative-based filtering using Sobel and Laplacian masks. A full report detailing the methodologies, implementations, and results is included.
